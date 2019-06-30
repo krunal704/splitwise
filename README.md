@@ -1,4 +1,4 @@
-# splitwise
+# Splitwise
 Splitwise App to Simplify Debt 
 
 # Language
