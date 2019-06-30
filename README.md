@@ -5,4 +5,4 @@ Splitwise App to Simplify Debt
 Python 2
 
 # Running Code
-<path-to-python2>/python simplifyDebt.py
+&lt; path-to-python2 &gt;/python simplifyDebt.py
